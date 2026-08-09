@@ -47,7 +47,7 @@ My learning and working mindset is driven by three principles:
 ## 🎓 Education & Specialization
 
 🎓 **University of Transport Ho Chi Minh City (UTH)**  
-📜 **Degree:** Bachelor of Information Technology (*Specialization: Software Engineering & Information Systems*)  
+📜 **Degree:** Bachelor of Information Technology (*Specialization: Full-Stack Developer & Information Systems*)  
 ⭐ **GPA:** **3.39 / 4.00**
 
 ### 📚 Academic Focus & Practical Skills
