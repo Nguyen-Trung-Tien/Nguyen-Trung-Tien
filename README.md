@@ -13,7 +13,7 @@
     <a href="https://linkedin.com/in/nguyentrungtien910">
       <img src="https://img.shields.io/badge/LinkedIn-Nguyen%20Trung%20Tien-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:trungtiennguyen910@gmail.com">
+    <a href="mailto:trungnguyen910@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -158,7 +158,7 @@ A full-stack e-commerce web application featuring modern UI, AI-assisted product
 - 🧪 **QA & Testing Focus:** Performed API testing via Postman for JWT authentication, refresh token rotation, and payment webhooks.
 - ⚡ **Engineering:** Utilized Redis caching to speed up product catalog queries.
 
-**Tech Stack:** `React 19` • `TypeScript` • `TailwindCSS` • `Node.js 22` • `Express 5` • `MySQL 8` • `Redis` • `VNPay` • `PayPal`
+**Tech Stack:** `React 19` • `JavaScript` • `TailwindCSS` • `Node.js 22` • `Express 5` • `MySQL 8` • `Redis` • `VNPay` • `PayPal`
 
 [👉 View Repository](https://github.com/Nguyen-Trung-Tien/TIENTECH-Shop)
 
